@@ -10,7 +10,7 @@ class Floyds_Triangle
         {
             for(int j=1;j<=i;j++)
             {
-            System.out.print(p+" ");
+            System.out.print(p + " ");
             p++;
             }
             System.out.println();
